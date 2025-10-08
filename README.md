@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img width="1024" height="1024" alt="Gemini_Generated_Image_9e3h2p9e3h2p9e3h" src="https://github.com/user-attachments/assets/046f179d-b164-4b53-8088-f4cbd3de67c8" />
 
 <!--
 **frankidugboe/frankidugboe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
